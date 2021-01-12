@@ -3,6 +3,9 @@ uuid = "19f8670b-1f40-4a2f-b68f-4de514172ac9"
 authors = ["Juan Luis Barberia"]
 version = "0.1.0"
 
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 [compat]
 julia = "1"
 
